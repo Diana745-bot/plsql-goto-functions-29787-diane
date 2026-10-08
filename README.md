@@ -1,4 +1,3 @@
-
 # Employee Records Management System
 
 ## Student Information
