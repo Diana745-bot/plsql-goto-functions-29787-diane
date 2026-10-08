@@ -150,7 +150,8 @@ The `screenshots` folder contains the main evidence from the assignment:
 
 - `A1_output.png` – A1 result
 - `A2_output.png` – A2 result
-- `A3_error_and_fix.png` – A3 error and corrected version
+- `A3_error.png` – A3 illegal GOTO error
+- `A3_fix.png` – A3 corrected version
 - `A4_output.png` – A4 result
 - `B5_select_output.png` – Function used in a SELECT statement
 - `C1_output.png` – C1 payroll validation result
